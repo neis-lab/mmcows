@@ -1,0 +1,6 @@
+names:
+  0: cow
+nc: 1
+test: ./organized_data/fold_1/test/images
+train: ./organized_data/fold_1/train/images
+val: ./organized_data/fold_1/val/images

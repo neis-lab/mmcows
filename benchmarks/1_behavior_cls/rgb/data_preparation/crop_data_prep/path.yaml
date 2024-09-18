@@ -1,0 +1,3 @@
+# sensor_data_dir: /nfs/hvvu2/ML/Data/visual_data
+# visual_data_dir: /nfs/hvvu2/ML/Data/visual_data
+visual_data_dir: ./visual_data
