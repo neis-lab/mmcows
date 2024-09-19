@@ -37,7 +37,7 @@ Setup:
 1. Download and upzip sensor_data.zip and visual_data.zip to separate folders
 2. Clone this directory: 
 	```
-	git clone https://github.com/NEIS-lab/MmCows
+	git clone https://github.com/neis-lab/mmcows
 	```
 	In ```./configs/path.yaml```, modify ```sensor_data_dir``` and ```visual_data_dir``` to your local directories of the respective folders
 3. [Optional] Create a virtual environment using [conda](https://docs.anaconda.com/free/miniconda/): 
@@ -80,7 +80,7 @@ Note:
 
 
 **RGBs and RGBm benchmarking:** <br /> 
-* Follow [this readme](https://github.com/NEIS-lab/MmCows/blob/main/benchmarks/1_behavior_cls/rgb) for benchmarking RGBs and RGBm.
+* Follow [this readme](https://github.com/neis-lab/mmcows/blob/main/benchmarks/1_behavior_cls/rgb) for benchmarking RGBs and RGBm.
 
 <br />
 
@@ -266,7 +266,7 @@ Complete Visual Data (1s interval)
 Tools
 ------
 
-Please check [this readme](https://github.com/NEIS-lab/MmCows/tree/main/visualization) for more details about the visualization tools for MmCows, UWB localization, and visual localization.
+Please check [this readme](https://github.com/neis-lab/mmcows/tree/main/visualization) for more details about the visualization tools for MmCows, UWB localization, and visual localization.
 
 <br />
 

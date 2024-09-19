@@ -27,7 +27,7 @@ Note: The annotated ```visual_data.zip``` only contains images on 7/25 from 2:57
 
 2. Clone the main directory, navitage to "visualization"
 ```
-git clone https://github.com/NEIS-lab/MmCows
+git clone https://github.com/neis-lab/mmcows
 cd visualization
 ```
 
@@ -69,7 +69,7 @@ Example:
 python MmCows_view.py --date 0725 --uwb_points --boundary
 ```
 
-https://github.com/NEIS-lab/MmCows/assets/60267498/a29fd3cf-ad23-49db-80af-38ae963d77f1
+https://github.com/neis-lab/mmcows/assets/60267498/a29fd3cf-ad23-49db-80af-38ae963d77f1
 
 
 <br />
@@ -81,7 +81,7 @@ python uwb_localization.py
 ```
 
 
-https://github.com/NEIS-lab/MmCows/assets/60267498/8d7f469a-cf4c-4224-b486-c96c0a1ab6e1
+https://github.com/neis-lab/mmcows/assets/60267498/8d7f469a-cf4c-4224-b486-c96c0a1ab6e1
 
 <br />
 
@@ -91,7 +91,7 @@ Localization of cows (from 1 to 16) simultaneously using multiple views. Only ap
 python visual_localization.py
 ```
 
-https://github.com/NEIS-lab/MmCows/assets/60267498/adf83598-4eef-40a0-a9d5-57c1a96f41de
+https://github.com/neis-lab/mmcows/assets/60267498/adf83598-4eef-40a0-a9d5-57c1a96f41de
 
 
 If you cannot see the videos, hold the "shift" key while refreshing your browser to reload the page.

@@ -6,9 +6,9 @@
 
 Data Preparation
 ------
-1. If not done already, clone the repository [mmcows](https://github.com/NEIS-lab/MmCows.git)
+1. If not done already, clone the repository [mmcows](https://github.com/neis-lab/mmcows.git)
     ```bash
-    git clone https://github.com/NEIS-lab/MmCows.git
+    git clone https://github.com/neis-lab/mmcows.git
     ```
     Change the working directory of terminal to this repository:
     ```bash
@@ -25,7 +25,7 @@ Data Preparation
     pip3 install -r requirements.txt
     ```
     
-4. Download sensor_data.zip, visual_data.zip, cropped_bboxes.zip, and trained_model_weights.zip from [this page](https://github.com/NEIS-lab/MmCows)
+4. Download sensor_data.zip, visual_data.zip, cropped_bboxes.zip, and trained_model_weights.zip from [this page](https://github.com/neis-lab/mmcows)
 
 5. Extract visual_data.zip and sensor_data.zip in the current working directory, i.e. ```mmcows/benchmarks/1_behavior_cls/rgb```.
 
