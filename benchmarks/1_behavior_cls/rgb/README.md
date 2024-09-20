@@ -156,10 +156,11 @@ Code adapted from https://github.com/ultralytics/ultralytics.
     ```lying_ID_model_path```: Path to lying cow classification model trained weights file <br />
     ```cow_detection_model_path```: Path to yolov8 cow detection model trained weights file <br />-->
      
-2. Run the following command (change the "fold" number in ```./custom_ultralytics_yolov8/inference_config.json``` accordingly, e.g. "fold_2")
+2. Run the following command
     ```
     python custom_ultralytics_yolov8/pipeline.py --data_path ./organized_data/fold_1/test/images
     ```
+    For each fold, change the "fold" number in the command and in all paths in ```./custom_ultralytics_yolov8/inference_config.json``` accordingly, e.g. "fold_2". <br />
     Each image will produce ```.txt``` files per test image with the same filename at the location mentioned in ```save_preds_directory```. Each row corresponds to a detected object, and has the following format:
 
     ```[cow_id x y w h behavior_id]```, where
