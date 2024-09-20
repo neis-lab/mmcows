@@ -160,7 +160,7 @@ Code adapted from https://github.com/ultralytics/ultralytics.
     ```
     python custom_ultralytics_yolov8/pipeline.py --data_path ./organized_data/fold_1/test/images
     ```
-    Each image will produce ```.txt``` files per test image with the same filename at the location mentioned in ```save_preds_directory```. Each row corresponds to a detected object, and has the following format:
+    Each image will produce a ```.txt``` file with the same filename as the image at the location mentioned in ```save_preds_directory```. Each row corresponds to a detected object, and has the following format:
 
     ```[cow_id x y w h behavior_id]```, where
     * x: The normalized x-coordinate of the center of the bounding box.
