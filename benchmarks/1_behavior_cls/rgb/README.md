@@ -156,7 +156,7 @@ Code adapted from https://github.com/ultralytics/ultralytics.
     ```lying_ID_model_path```: Path to lying cow classification model trained weights file <br />
     ```cow_detection_model_path```: Path to yolov8 cow detection model trained weights file <br />-->
      
-2. Run the following command
+2. Run the following command:
     ```
     python custom_ultralytics_yolov8/pipeline.py --data_path ./organized_data/fold_1/test/images
     ```
