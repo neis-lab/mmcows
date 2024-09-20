@@ -160,7 +160,6 @@ Code adapted from https://github.com/ultralytics/ultralytics.
     ```
     python custom_ultralytics_yolov8/pipeline.py --data_path ./organized_data/fold_1/test/images
     ```
-    For each fold, change the "fold" number in the command and in all paths in ```./custom_ultralytics_yolov8/inference_config.json``` accordingly, e.g. "fold_2". <br />
     Each image will produce ```.txt``` files per test image with the same filename at the location mentioned in ```save_preds_directory```. Each row corresponds to a detected object, and has the following format:
 
     ```[cow_id x y w h behavior_id]```, where
@@ -169,7 +168,7 @@ Code adapted from https://github.com/ultralytics/ultralytics.
     * w: The normalized width of the bounding box.
     * h: The normalized height of the bounding box.
 
-    The above command shows example usage for fold_1 test data split. Similarly, testing can be performed on fold_2, fold_3, fold_4, and fold_5 by replacing the corresponding command line argument data_path with the path to the directory containing test images. 
+    The above command shows example usage for fold_1 test data split. Similarly, testing can be performed on fold_2, fold_3, fold_4, and fold_5 by replacing the "fold" number in the command above and in all paths in ```./custom_ultralytics_yolov8/inference_config.json``` accordingly, e.g. "fold_2". <br /> 
 
 <br />
 
