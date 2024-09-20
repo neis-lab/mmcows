@@ -1,9 +1,9 @@
 {
     "fold": "fold_1",
-    "behav_model_path": "trained_model_weights/behavior_classifier/best_model_fold_1.pt",
-    "standing_ID_model_path": "trained_model_weights/non-lying_cow_classifier/best_model_fold_1.pt",
-    "lying_ID_model_path": "trained_model_weights/lying_cow_classifier/best_model_fold_1.pt",
-    "cow_detection_model_path": "trained_model_weights/cow_detector/yolov8_fold_1.pt",
+    "behav_model_path": "./trained_models/behavior_classifier/best_model_fold_1.pt",
+    "standing_ID_model_path": "./trained_models/non-lying_cow_classifier/best_model_fold_1.pt",
+    "lying_ID_model_path": "./trained_models/lying_cow_classifier/best_model_fold_1.pt",
+    "cow_detection_model_path": "./trained_models/cow_detector/yolov8_fold_1.pt",
     "save_preds_directory": "./predictions/0725",
     "n_id_classes": 16,
     "n_behav_classes": 7,

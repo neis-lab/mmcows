@@ -25,9 +25,9 @@ Data Preparation
     pip3 install -r requirements.txt
     ```
     
-4. Download sensor_data.zip, visual_data.zip, cropped_bboxes.zip, and trained_model_weights.zip from [this page](https://github.com/neis-lab/mmcows)
+4. Download visual_data.zip, cropped_bboxes.zip, and trained_models.zip from [this page](https://github.com/neis-lab/mmcows)
 
-5. Extract visual_data.zip and sensor_data.zip in the current working directory, i.e. ```mmcows/benchmarks/1_behavior_cls/rgb```.
+5. Extract visual_data.zip and trained_models.zip in the current working directory, i.e. ```mmcows/benchmarks/1_behavior_cls/rgb```.
 
 6. Generate data directories required for training and testing by running the following command
     ```bash
@@ -145,17 +145,18 @@ Stage 3: Cow Identification
 
 ### Overall Inference Pipeline
 ------
-1. Inference pipeline can be run either using the models trained in the previous steps or using the trained weights (trained_model_weights.zip).  <br />
+1. Inference pipeline can be run either using the models trained in the previous steps or using the trained weights (trained_models.zip). If you trained the models, the folder trained_models should have been overwriten with the new weights. <br />
+<!--Configuration is in ```./custom_ultralytics_yolov8/inference_config.json```.-->
 Code adapted from https://github.com/ultralytics/ultralytics.
-2. Enter the configurations in ```./custom_ultralytics_yolov8/inference_config.json```
+<!--2. Enter the configurations in ```./custom_ultralytics_yolov8/inference_config.json```
     
     ```fold``` : The fold to run inference pipeline on. e.g. "fold_1" <br />
     ```behav_model_path```: Path to behavior classification model trained weights file <br />
     ```standing_ID_model_path```: Path to non-lying cow classification model trained weights file <br />
     ```lying_ID_model_path```: Path to lying cow classification model trained weights file <br />
-    ```cow_detection_model_path```: Path to yolov8 cow detection model trained weights file <br />
-    
-3. Run the following command (change the "fold" number in the directory accordingly, e.g. ../fold_2/test/images)
+    ```cow_detection_model_path```: Path to yolov8 cow detection model trained weights file <br />-->
+     
+2. Run the following command (change the "fold" number in ```./custom_ultralytics_yolov8/inference_config.json``` accordingly, e.g. ../fold_2/test/images)
     ```
     python custom_ultralytics_yolov8/pipeline.py --data_path ./organized_data/fold_1/test/images
     ```
