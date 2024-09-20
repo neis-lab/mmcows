@@ -168,7 +168,7 @@ Code adapted from https://github.com/ultralytics/ultralytics.
     * w: The normalized width of the bounding box.
     * h: The normalized height of the bounding box.
 
-    The above command shows example usage for fold_1 test data split. Similarly, testing can be performed on fold_2, fold_3, fold_4, and fold_5 by replacing the "fold" number in the command above and in all paths in ```./custom_ultralytics_yolov8/inference_config.json```:
+    The above command shows example usage for fold_1 test data split. Similarly, testing can be performed on fold_2, fold_3, fold_4, and fold_5 by replacing the "fold" number in the command above and in all paths in ```inference_config.json```:
    ```
     vi ./custom_ultralytics_yolov8/inference_config.json
     ```
