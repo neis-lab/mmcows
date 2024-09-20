@@ -23,7 +23,7 @@ We also provide additional sets of data for benchmarking the dataset such as cro
 * [1s_interval_images_3hr](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/EuHPy-0gjUlGv3CEOCGmgrMByCs62VVCHveeDjbm9PEaAg?e=KtT3wa): A subset of 1s_interval_images on 7/25 from 12 PM to 3 PM with smaller file size (7.5 GB/zip, 30 GB in total).
 * [cow_gallery.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/EWwMd7XKrUpNnaROWHd8oFUBQ_9-duvEtr7kP6-vA-Rw-A?e=VfmBZC): High-res photos of cows from various angles for references
 * [cropped_bboxes.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/EVnZ4WHspSJEpj-Xl2NIcm4ByWV5Ij-D3X9EF3uoM_FxOw?e=g70Yr7) (13 GB) cropped bounding boxes of cows for the training of behavior classification, lying cow identification, and non-lying cow identification
-* [trained_model_weights.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/oprabhun_purdue_edu/EcxQcjadm3BMvhh2i2waZAwBk58lN_R4vHg2KCxeZFow1w?e=cD5cmg) (1 GB) Pre-trained weights of the vision models
+* [trained_models.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/ERLpKg5Ga29LumepeO4QX0QBLAZCIjjWDFZK-OWZhnB5vQ?e=ht9SBs) (1 GB) Pre-trained weights of the vision models
 
 
 <!--* [pred_labels.zip](https://www.dropbox.com/scl/fi/d6wj82bmi5v6whret8wwu/pred_labels.zip?rlkey=srg3cnqou72yfuuxvdu51z7hg&dl=1) (20 MB) Predicted labels from visual models on 7/25-->
