@@ -39,7 +39,7 @@ def main():
         # Test the model
         metrics = model.val(
             data='custom_data.yaml', 
-            device=[0, 1, 2, 3], 
+            # device=[0, 1, 2, 3], 
             split = 'test', 
             imgsz=640
             )

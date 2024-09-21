@@ -44,7 +44,7 @@ def main():
         model.train(
             data='custom_data.yaml', 
             epochs=args.epochs, 
-            device=[0, 1, 2, 3], 
+            # device=[0, 1, 2, 3], 
             imgsz=640,
             plots = True,
             name = f'run_{fold}_',
