@@ -69,7 +69,8 @@ Example:
 python MmCows_view.py --date 0725 --uwb_points --boundary
 ```
 
-https://github.com/neis-lab/mmcows/assets/60267498/a29fd3cf-ad23-49db-80af-38ae963d77f1
+<!--https://github.com/neis-lab/mmcows/assets/60267498/a29fd3cf-ad23-49db-80af-38ae963d77f1-->
+![hippo](./mmcows_view_vid_1600p.gif)
 
 
 <br />
