@@ -80,7 +80,7 @@ Localization of a single cow using UWB:
 ```
 python uwb_localization.py
 ```
-![hippo](./images/uwb_loc_vid.gif)
+<img src="./images/uwb_loc_vid.gif" alt="hippo" width="500" />
 
 
 <br />
