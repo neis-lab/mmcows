@@ -90,5 +90,6 @@ Localization of cows (from 1 to 16) simultaneously using multiple views. Only ap
 ```
 python visual_localization.py
 ```
-![hippo](./images/visual_loc_vid.gif)
+
+<img src="./images/visual_loc_vid.gif" alt="hippo" width="500" />
 
