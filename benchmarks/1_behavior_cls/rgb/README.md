@@ -173,6 +173,8 @@ Code adapted from https://github.com/ultralytics/ultralytics.
     vi ./custom_ultralytics_yolov8/inference_config.json
     ```
 
+	The behavior recognition model, lying cow identifier, and standing cow identifier are defined in: ```./custom_ultralytics_yolov8/ultralytics/models/yolo/detect/predict.py```
+
 <br />
 
 Evaluation
