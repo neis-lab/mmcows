@@ -25,7 +25,7 @@ We also provide additional sets of data for benchmarking the dataset such as cro
 * [cropped_bboxes.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/EVnZ4WHspSJEpj-Xl2NIcm4ByWV5Ij-D3X9EF3uoM_FxOw?e=g70Yr7) (13 GB) cropped bounding boxes of cows for the training of behavior classification, lying cow identification, and non-lying cow identification
 * [trained_models.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/ERLpKg5Ga29LumepeO4QX0QBLAZCIjjWDFZK-OWZhnB5vQ?e=ht9SBs) (1 GB) Pre-trained weights of the vision models
 
-[Alternative download link](https://www.kaggle.com/datasets/hienvuvg/mmcows)
+These alternative links might offer faster download speed: [alternative 1](https://huggingface.co/datasets/hienvuvg/mmcows), [alternative 2](https://www.kaggle.com/datasets/hienvuvg/mmcows)
 
 
 <!--* [pred_labels.zip](https://www.dropbox.com/scl/fi/d6wj82bmi5v6whret8wwu/pred_labels.zip?rlkey=srg3cnqou72yfuuxvdu51z7hg&dl=1) (20 MB) Predicted labels from visual models on 7/25-->
