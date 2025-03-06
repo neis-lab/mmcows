@@ -15,7 +15,7 @@ We also provide additional sets of data for benchmarking the dataset such as cro
 
 <!--[Overview](https://hienvuvg.github.io/mmcows/)\-->
 <a id="links"></a>
-**Download links:**
+**Download links: [Option 1](https://huggingface.co/datasets/hienvuvg/mmcows/tree/main) | [Option 2](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/ErEe02GDJHxIto9v2y_8ruQBqJdxNTFv-putxiSdshF4qw?e=EEgMBN) | [Option 3](https://www.kaggle.com/datasets/hienvuvg/mmcows)**
 * [sensor_data.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/EbqpyJkUdgtGiZ0ZQpkyqtQBSZEh8PhInGu7V5FVl0uWMw?e=Yuga6R) (18 GB) 14-day data from wearable sensors
 * [visual_data.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/EeW_pXl6gJJPqdAX8Uxm1j4BAF5WILNS5Ks-v9zUZuy0_g?e=IecVYh) (20 GB) 15s-interval visual data on 7/25 containing 20,000 annotated images
 * [uwb_synced_images](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/Et4vQrsbOvRNudWe7SGn7p0BzPJlyWY6jXG1NOn39me5-A?e=DuY0TM): UWB-synced images throughout 14 days of the deployment with a sampling rate of 15s. Previews of the UWB-synced images are provided in [combined-view_videos](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/Evg_ub8l6VBCqtMk6HAwfY4B9Gh3zi16FJ84DMXX4K2noA?e=L4VIh3) (3 GB/video/day).  
@@ -25,7 +25,7 @@ We also provide additional sets of data for benchmarking the dataset such as cro
 * [cropped_bboxes.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/EVnZ4WHspSJEpj-Xl2NIcm4ByWV5Ij-D3X9EF3uoM_FxOw?e=g70Yr7) (13 GB) cropped bounding boxes of cows for the training of behavior classification, lying cow identification, and non-lying cow identification
 * [trained_models.zip](https://purdue0-my.sharepoint.com/:u:/g/personal/vu64_purdue_edu/ERLpKg5Ga29LumepeO4QX0QBLAZCIjjWDFZK-OWZhnB5vQ?e=ht9SBs) (1 GB) Pre-trained weights of the vision models
 
-These alternative links might offer faster download speed: [alternative 1](https://huggingface.co/datasets/hienvuvg/mmcows/tree/main), [alternative 2](https://www.kaggle.com/datasets/hienvuvg/mmcows)
+These alternative links might offer faster download speed: [alternative 1](), [alternative 2]()
 
 
 <!--* [pred_labels.zip](https://www.dropbox.com/scl/fi/d6wj82bmi5v6whret8wwu/pred_labels.zip?rlkey=srg3cnqou72yfuuxvdu51z7hg&dl=1) (20 MB) Predicted labels from visual models on 7/25-->
