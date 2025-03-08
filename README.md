@@ -15,7 +15,7 @@ We also provide additional sets of data for benchmarking the dataset such as cro
 
 <!--[Overview](https://hienvuvg.github.io/mmcows/)\-->
 <a id="links"></a>
-**Download links: [Option 1](https://huggingface.co/datasets/hienvuvg/mmcows/tree/main) | [Option 2](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/ErEe02GDJHxIto9v2y_8ruQBqJdxNTFv-putxiSdshF4qw?e=EEgMBN) | [Option 3](https://www.kaggle.com/datasets/hienvuvg/mmcows)**
+**Download links: [Option 1](https://huggingface.co/datasets/hienvuvg/mmcows/) | [Option 2](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/ErEe02GDJHxIto9v2y_8ruQBqJdxNTFv-putxiSdshF4qw?e=EEgMBN) | [Option 3](https://www.kaggle.com/datasets/hienvuvg/mmcows)**
 * **sensor_data.zip** (18 GB) 14-day data from wearable sensors
 * **visual_data.zip** (20 GB) 15s-interval visual data on 7/25 containing 20,000 annotated images
 * **uwb_synced_images**: UWB-synced images throughout 14 days of the deployment with a sampling rate of 15s. Previews of the UWB-synced images are provided in **15s_interval_combined_videos** (3 GB/video/day).  
