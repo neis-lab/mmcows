@@ -15,7 +15,7 @@ We also provide additional sets of data for benchmarking the dataset such as cro
 
 <!--[Overview](https://hienvuvg.github.io/mmcows/)\-->
 <a id="links"></a>
-**Data files: [Download](https://huggingface.co/datasets/hienvuvg/mmcows/) | [backup 1](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/ErEe02GDJHxIto9v2y_8ruQBNmn_NtodiM6DHYp4jUeR6g?e=jST4YV) | [backup 2](https://www.kaggle.com/datasets/hienvuvg/mmcows)**
+**Data files: [Download](https://huggingface.co/datasets/neis-lab/mmcows/) | [backup 1](https://purdue0-my.sharepoint.com/:f:/g/personal/vu64_purdue_edu/ErEe02GDJHxIto9v2y_8ruQBNmn_NtodiM6DHYp4jUeR6g?e=jST4YV) | [backup 2](https://www.kaggle.com/datasets/hienvuvg/mmcows)**
 * **sensor_data.zip** (18 GB) 14-day data from wearable sensors
 * **visual_data.zip** (20 GB) 15s-interval visual data on 7/25 containing 20,000 annotated images
 * **uwb_synced_images**: UWB-synced images throughout 14 days of the deployment with a sampling rate of 15s. Previews of the UWB-synced images are provided in **15s_interval_combined_videos** (3 GB/video/day).  
@@ -274,7 +274,7 @@ Annotation Rules
 
 Details of annotation rules for cow ID and behavior are provided in [this online document](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing). We used [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/) to annotate the cow ID. The VIA json files for lying, non-lying, and combined ID lables are available upon request.
 
-The annotation of cow ID is visualized using multi camera views in [this video](https://huggingface.co/datasets/hienvuvg/mmcows/resolve/main/15s_interval_combined_videos/0725_w_bbox.mp4?download=true) (4k, 3.6 GB).
+The annotation of cow ID is visualized using multi camera views in [this video](https://huggingface.co/datasets/neis-lab/mmcows/resolve/main/15s_interval_combined_videos/0725_w_bbox.mp4?download=true) (4k, 3.6 GB).
 
 <br />
 
