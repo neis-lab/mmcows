@@ -280,6 +280,7 @@ The annotation of cow ID is visualized using multi camera views in [this video](
 
 Citation
 -----
+Please cite the paper if you find the dataset useful for your research:
 ```
 @inproceedings{mmcows,
  title = {MmCows: A Multimodal Dataset for Dairy Cattle Monitoring},
