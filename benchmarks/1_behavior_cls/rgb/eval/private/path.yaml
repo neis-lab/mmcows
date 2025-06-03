@@ -1,0 +1,3 @@
+sensor_data_dir: ./sensor_data
+visual_data_dir: ./visual_data
+pred_label_dir: ./predictions

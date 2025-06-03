@@ -1,0 +1,11 @@
+torch
+torch-summary
+torchvision
+tqdm
+numpy
+pillow
+scikit-learn
+ultralytics
+pytz
+PyYAML
+pandas
