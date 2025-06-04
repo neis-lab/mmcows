@@ -54,7 +54,7 @@ Setup:
 There are two options for benchmarking the dataset:
 
 A. Test all models using the provided weights:
-1. Download and unzip ```sensor_model_weights.zip```. Then copy the weights into their respective folder with this repo. The zip file and this repo share the same file structure.
+1. Download and unzip ```sensor_model_weights.zip```. Then copy the weights into their respective folders in this cloned repo. The zip file and this repo share the same file structure.
 2. Navigate to your local directory of this repo
 3. To evaluate the performance of the modalities
 	```
