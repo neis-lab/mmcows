@@ -393,7 +393,7 @@ Research Using MmCows
             <td>Multi-camera cow tracking</td>
         </tr>
         <tr valign="top">
-            <td><a href="https://ieeexplore.ieee.org/document/11610157">.Sailunaz et al.</td>
+            <td><a href="https://ieeexplore.ieee.org/document/11610157">Sailunaz et al.</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -474,6 +474,7 @@ Research Using MmCows
 </table>
 
 **UWB** 3D location · **IMMU** neck acceleration and head direction · **Pressure** neck air pressure · **CBT** core body temperature · **Ankle** ankle orientation (lying) · **RGB** multi-view images · **THI** indoor temperature and humidity · **Weather** outdoor weather · **Milk** daily milk yield
+
 <br />
 Updated on October 27, 2026.
 
