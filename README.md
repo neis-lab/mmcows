@@ -310,7 +310,7 @@ Research Using MmCows
             <th width="5%" align="center"><sub>THI</sub></th>
             <th width="10%" align="center"><sub>Weath&shy;er</sub></th>
             <th width="5%" align="center"><sub>Milk</sub></th>
-            <th width="35%" align="left"><sub>Application</sub></th>
+            <th width="50%" align="left"><sub>Application</sub></th>
         </tr>
     </thead>
     <tbody>
