@@ -300,7 +300,7 @@ Research Using MmCows
 <table width="100%" style="table-layout: fixed">
     <thead>
         <tr>
-            <th width="15%" align="left"><sub>Paper</sub></th>
+            <th width="13%" align="left"><sub>Paper</sub></th>
             <th width="5%" align="center"><sub>UWB</sub></th>
             <th width="5%" align="center"><sub>IMMU</sub></th>
             <th width="12%" align="center"><sub>Pres&shy;sure</sub></th>
