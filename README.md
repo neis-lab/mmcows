@@ -297,20 +297,21 @@ For any inquiries or assistance, please feel free to reach out to Hien Vu at ```
 
 Research Using MmCows
 -----
+<small><small>
 <table width="100%" style="table-layout: fixed">
     <thead>
         <tr>
-            <th width="15%" align="left">Paper</th>
+            <th width="13%" align="left">Paper</th>
             <th width="5%" align="center">UWB</th>
             <th width="5%" align="center">IMMU</th>
-            <th width="11%" align="center">Pres&shy;sure</th>
+            <th width="12%" align="center">Pres&shy;sure</th>
             <th width="5%" align="center">CBT</th>
             <th width="5%" align="center">Ankle</th>
             <th width="5%" align="center">RGB</th>
             <th width="5%" align="center">THI</th>
             <th width="10%" align="center">Weath&shy;er</th>
-            <th width="5%" align="center">Milk</th>
-            <th width="35%" align="left">Application</th>
+            <th width="2%" align="center">Milk</th>
+            <th width="50%" align="left">Application</th>
         </tr>
     </thead>
     <tbody>
@@ -472,7 +473,8 @@ Research Using MmCows
         </tr>
     </tbody>
 </table>
-
+<small><small>
+	
 **UWB** 3D location · **IMMU** neck acceleration and head direction · **Pressure** neck air pressure · **CBT** core body temperature · **Ankle** ankle orientation (lying) · **RGB** multi-view images · **THI** indoor temperature and humidity · **Weather** outdoor weather · **Milk** daily milk yield
 
 <br />
