@@ -297,118 +297,117 @@ For any inquiries or assistance, please feel free to reach out to Hien Vu at ```
 
 Research Using MmCows
 -----
-<small><small>
 <table width="100%" style="table-layout: fixed">
     <thead>
         <tr>
-            <th width="13%" align="left">Paper</th>
-            <th width="5%" align="center">UWB</th>
-            <th width="5%" align="center">IMMU</th>
-            <th width="12%" align="center">Pres&shy;sure</th>
-            <th width="5%" align="center">CBT</th>
-            <th width="5%" align="center">Ankle</th>
-            <th width="5%" align="center">RGB</th>
-            <th width="5%" align="center">THI</th>
-            <th width="10%" align="center">Weath&shy;er</th>
-            <th width="2%" align="center">Milk</th>
-            <th width="50%" align="left">Application</th>
+            <th width="15%" align="left"><sub>Paper</sub></th>
+            <th width="5%" align="center"><sub>UWB</sub></th>
+            <th width="5%" align="center"><sub>IMMU</sub></th>
+            <th width="11%" align="center"><sub>Pres&shy;sure</sub></th>
+            <th width="5%" align="center"><sub>CBT</sub></th>
+            <th width="5%" align="center"><sub>Ankle</sub></th>
+            <th width="5%" align="center"><sub>RGB</sub></th>
+            <th width="5%" align="center"><sub>THI</sub></th>
+            <th width="10%" align="center"><sub>Weath&shy;er</sub></th>
+            <th width="5%" align="center"><sub>Milk</sub></th>
+            <th width="35%" align="left"><sub>Application</sub></th>
         </tr>
     </thead>
     <tbody>
         <tr valign="top">
-            <td><a href="https://arxiv.org/abs/2604.04098">Alvi et al.</a></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
+            <td><sub><a href="https://arxiv.org/abs/2604.04098">Alvi et al.</a></sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td>Core body temperature forecasting with a digital twin</td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td><sub>Core body temperature forecasting with a digital twin</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1109/ACCESS.2026.3665993">Avanzato et al.</a></td>
+            <td><sub><a href="https://doi.org/10.1109/ACCESS.2026.3665993">Avanzato et al.</a></sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td>Posture recognition and barn localization</td>
+            <td><sub>Posture recognition and barn localization</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1002/vms3.70979">Gulati et al.</a></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
+            <td><sub><a href="https://doi.org/10.1002/vms3.70979">Gulati et al.</a></sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td align="center"></td>
-            <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td>Health and stress monitoring with federated learning</td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td><sub>Health and stress monitoring with federated learning</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.3390/agriculture16030389">Kim &amp; Sohn</a></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
+            <td><sub><a href="https://doi.org/10.3390/agriculture16030389">Kim &amp; Sohn</a></sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td>Individual milk-yield prediction</td>
+            <td align="center"><sub>✓</sub></td>
+            <td><sub>Individual milk-yield prediction</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1007/978-3-032-17083-5_20">Kumar et al.</a></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
+            <td><sub><a href="https://doi.org/10.1007/978-3-032-17083-5_20">Kumar et al.</a></sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td>Multimodal behavior classification</td>
+            <td><sub>Multimodal behavior classification</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1016/j.atech.2026.102473">Nidhi et al.</a></td>
+            <td><sub><a href="https://doi.org/10.1016/j.atech.2026.102473">Nidhi et al.</a></sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td>Multi-camera cow tracking</td>
+            <td><sub>Multi-camera cow tracking</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://ieeexplore.ieee.org/document/11610157">Sailunaz et al.</td>
+            <td><sub><a href="https://ieeexplore.ieee.org/document/11610157">Sailunaz et al.</a></sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td>Milk-yield prediction from postures (explainable AI)</td>
+            <td align="center"><sub>✓</sub></td>
+            <td><sub>Milk-yield prediction from postures (explainable AI)</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1109/ACCESS.2026.3688544">Shanteer et al.</a></td>
-            <td align="center">✓</td>
+            <td><sub><a href="https://doi.org/10.1109/ACCESS.2026.3688544">Shanteer et al.</a></sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -417,64 +416,63 @@ Research Using MmCows
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td>Social-network and welfare analysis with AI agents</td>
+            <td><sub>Social-network and welfare analysis with AI agents</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1109/BlackSeaCom65655.2025.11193930">Marin et al.</a></td>
+            <td><sub><a href="https://doi.org/10.1109/BlackSeaCom65655.2025.11193930">Marin et al.</a></sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td align="center"></td>
-            <td align="center"></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td>Behavior classification</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td><sub>Behavior classification</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://engineering.purdue.edu/neis/publications/pdf/raskar25moobot.pdf">Raskar et al.</a></td>
-            <td align="center">✓</td>
+            <td><sub><a href="https://engineering.purdue.edu/neis/publications/pdf/raskar25moobot.pdf">Raskar et al.</a></sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td>Natural-language video querying (RAG)</td>
+            <td align="center"><sub>✓</sub></td>
+            <td><sub>Natural-language video querying (RAG)</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1109/ICUIS67429.2025.11380791">Seema &amp; Ramesh</a></td>
+            <td><sub><a href="https://doi.org/10.1109/ICUIS67429.2025.11380791">Seema &amp; Ramesh</a></sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td>Adaptive feeding and health management (reinforcement learning)</td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td><sub>Adaptive feeding and health management (reinforcement learning)</sub></td>
         </tr>
         <tr valign="top">
-            <td><a href="https://doi.org/10.1109/TENCON66050.2025.11375019">Tekulapalli et al.</a></td>
+            <td><sub><a href="https://doi.org/10.1109/TENCON66050.2025.11375019">Tekulapalli et al.</a></sub></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
+            <td align="center"><sub>✓</sub></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td align="center">✓</td>
-            <td>Feed and water intake prediction on edge devices</td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td align="center"><sub>✓</sub></td>
+            <td><sub>Feed and water intake prediction on edge devices</sub></td>
         </tr>
     </tbody>
 </table>
-<small><small>
-	
+
 **UWB** 3D location · **IMMU** neck acceleration and head direction · **Pressure** neck air pressure · **CBT** core body temperature · **Ankle** ankle orientation (lying) · **RGB** multi-view images · **THI** indoor temperature and humidity · **Weather** outdoor weather · **Milk** daily milk yield
 
 <br />
