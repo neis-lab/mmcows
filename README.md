@@ -303,7 +303,7 @@ Research Using MmCows
             <th width="15%" align="left"><sub>Paper</sub></th>
             <th width="5%" align="center"><sub>UWB</sub></th>
             <th width="5%" align="center"><sub>IMMU</sub></th>
-            <th width="11%" align="center"><sub>Pres&shy;sure</sub></th>
+            <th width="12%" align="center"><sub>Pres&shy;sure</sub></th>
             <th width="5%" align="center"><sub>CBT</sub></th>
             <th width="5%" align="center"><sub>Ankle</sub></th>
             <th width="5%" align="center"><sub>RGB</sub></th>
